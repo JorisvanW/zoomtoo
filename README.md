@@ -40,7 +40,7 @@ This plugin is also registered under http://bower.io/ to simplify integration. T
 
 ## Compatibility
 
-jQuery Mask Plugin has been tested with jQuery 1.7.1 on all major browsers:
+jQuery ZoomToo Plugin has been tested with jQuery 1.7.1 on all major browsers:
 
  * Firefox 2+ (Win, Mac, Linux);
  * IE7+ (Win);
